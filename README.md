@@ -123,3 +123,4 @@ fora legge til nye sekvenser. Klasse skal ogsa ha en metode fora skrive ut al
 sekvensene writeOutAll(). Vis hvordan klassen kan brukes fra en main() me-
 tode ved a legge inn
 ere ulike sekvenser.-->
+
